@@ -1,6 +1,6 @@
 # GDPR Articles RAG System
 
-A Retrieval-Augmented Generation (RAG) system for querying and retrieving information from GDPR Articles 1-21. The system uses LangChain, Qdrant vector store, and SambaNova's Llama 3.1 8B model for accurate and context-aware responses to GDPR-related questions.
+A Retrieval-Augmented Generation (RAG) system for querying and retrieving information from GDPR Articles. The system uses LangChain, Qdrant vector store, and SambaNova's Llama 3.1 8B model for accurate and context-aware responses to GDPR-related questions.
 
 ## System Architecture
 
